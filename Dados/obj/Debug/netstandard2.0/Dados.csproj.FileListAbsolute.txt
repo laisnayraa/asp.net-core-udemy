@@ -1,0 +1,12 @@
+C:\cursos\ASP.NET Core 2.1\Dados\bin\Debug\netstandard2.0\Dados.deps.json
+C:\cursos\ASP.NET Core 2.1\Dados\bin\Debug\netstandard2.0\Dados.dll
+C:\cursos\ASP.NET Core 2.1\Dados\bin\Debug\netstandard2.0\Dados.pdb
+C:\cursos\ASP.NET Core 2.1\Dados\obj\Debug\netstandard2.0\Dados.csprojAssemblyReference.cache
+C:\cursos\ASP.NET Core 2.1\Dados\obj\Debug\netstandard2.0\Dados.csproj.CoreCompileInputs.cache
+C:\cursos\ASP.NET Core 2.1\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfoInputs.cache
+C:\cursos\ASP.NET Core 2.1\Dados\obj\Debug\netstandard2.0\Dados.AssemblyInfo.cs
+C:\cursos\ASP.NET Core 2.1\Dados\obj\Debug\netstandard2.0\Dados.dll
+C:\cursos\ASP.NET Core 2.1\Dados\obj\Debug\netstandard2.0\Dados.pdb
+C:\cursos\ASP.NET Core 2.1\Dados\bin\Debug\netstandard2.0\Dominio.dll
+C:\cursos\ASP.NET Core 2.1\Dados\bin\Debug\netstandard2.0\Dominio.pdb
+C:\cursos\ASP.NET Core 2.1\Dados\obj\Debug\netstandard2.0\Dados.csproj.CopyComplete

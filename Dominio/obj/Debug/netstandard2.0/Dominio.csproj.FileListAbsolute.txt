@@ -1,0 +1,9 @@
+C:\cursos\ASP.NET Core 2.1\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\cursos\ASP.NET Core 2.1\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\cursos\ASP.NET Core 2.1\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\cursos\ASP.NET Core 2.1\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\cursos\ASP.NET Core 2.1\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\cursos\ASP.NET Core 2.1\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\cursos\ASP.NET Core 2.1\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\cursos\ASP.NET Core 2.1\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\cursos\ASP.NET Core 2.1\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
